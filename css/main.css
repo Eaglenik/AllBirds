@@ -363,6 +363,29 @@
     max-width: 650px;
     text-align: center;
 }
+.title1{
+    font-size: 32px;
+    line-height: 42px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    color: #212A2F;
+}
+.regist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.regist p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #212A2F;
+    letter-spacing: 0.5px;
+    max-width: 824px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 50px;
+}
 
 
 

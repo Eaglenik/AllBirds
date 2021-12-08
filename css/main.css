@@ -359,6 +359,11 @@
     flex-direction: column;
     margin-bottom: 120px;
 }
+.content-nature h1{
+    max-width: 650px;
+    text-align: center;
+}
+
 
 
 
